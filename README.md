@@ -8,6 +8,7 @@ GIt repository and various commands
 ## Purpose
 
 ## How to Contribute
+Please fork this repository and then issue Pull requests for review.
 
 ##Copyright
 
