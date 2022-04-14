@@ -9,6 +9,8 @@ GIt repository and various commands
 
 ## How to Contribute
 
+##Copyright
+
 ## Deployment
 This is a simple web project, deploment can
 be on any web server or even local file system
