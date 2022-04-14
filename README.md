@@ -10,6 +10,8 @@ GIt repository and various commands
 ## How to Contribute
 
 ## Deployment
+This is a simple web project, deploment can
+be on any web server or even local file system
 
 This repository is for showing how Git and GitHub work
 
