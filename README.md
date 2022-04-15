@@ -2,6 +2,7 @@
 
 This is a simple website project for showing
 how to use Git and Github together
+ADding a line for rebasing status
 ## Introduction
 This is example is to show different parts of the 
 GIt repository and various commands
