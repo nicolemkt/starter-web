@@ -13,6 +13,7 @@ GIt repository and various commands
 Please fork this repository and then issue Pull requests for review.
 
 ##Copyright
+2014 A git Training All rights reseved
 
 ## Deployment
 This is a simple web project, deploment can
