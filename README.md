@@ -2,8 +2,8 @@
 
 This is a simple website project for showing
 how to use Git and Github together
-ADding a line for rebasing status
-then more changes to my qwfr branch
+Updating for emergency fix after stashing
+
 ## Introduction
 This is example is to show different parts of the 
 GIt repository and various commands
